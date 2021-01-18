@@ -1,4 +1,4 @@
-#!/Users/clarizamayo/Desktop/ValTech-Social-Impact/env/bin/python3
+#!/home/haxagonus/Workspace/valtech-social-impact/env/bin/python3
 import argparse
 import json
 import logging
